@@ -8,6 +8,8 @@
       <class name="demo123.Test0"/>
       <class name="demo123.Test4"/>
       <class name="demo123.Test3"/>
+        <class name="demo123.Test5"/>
+      
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
